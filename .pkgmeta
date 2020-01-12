@@ -1,0 +1,10 @@
+package-as: RCLootCouncil_EPGP_Classic
+
+license-output: LICENSE.md
+
+required-dependencies:
+    - RCLootCouncil_Classic
+    - EPGP-Classic
+
+tools-used:
+	- FindGlobals
