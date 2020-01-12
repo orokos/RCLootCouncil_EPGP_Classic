@@ -1,10 +1,16 @@
 package-as: RCLootCouncil_EPGP_Classic
 
-license-output: LICENSE.md
+externals:
+  RCLootCouncil_EPGP: https://github.com/evil-morfar/RCLootCouncil_EPGP
+
+enable-nolib-creation: no
+
+ignore:
+  - RCLootCouncil_EPGP
 
 required-dependencies:
-    - RCLootCouncil_Classic
-    - EPGP-Classic
+  - EPGP-Classic
+  - RCLootCouncil_Classic
 
 tools-used:
-	- FindGlobals
+  - FindGlobals
