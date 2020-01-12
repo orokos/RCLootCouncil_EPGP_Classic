@@ -1,12 +1,9 @@
 package-as: RCLootCouncil_EPGP_Classic
-
-externals:
-  RCLootCouncil_EPGP: https://github.com/evil-morfar/RCLootCouncil_EPGP
-
 enable-nolib-creation: no
 
-ignore:
-  - RCLootCouncil_EPGP
+externals:
+  RCLootCouncil_EPGP:
+    url: https://github.com/evil-morfar/RCLootCouncil_Classic.git
 
 required-dependencies:
   - EPGP-Classic
