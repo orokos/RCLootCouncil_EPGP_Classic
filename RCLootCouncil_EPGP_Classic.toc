@@ -1,0 +1,33 @@
+## Interface: 11303
+
+## Title: RCLootCouncil - EPGP Classic
+## Version: 0.0.1-Alpha
+
+## Author: jpxthu
+## Notes: A WoW: Classic port of RCLootCouncil - EPGP
+## Notes-zhCN: RCLootCouncil - EPGP 的怀旧服版本
+## Dependencies: RCLootCouncil_Classic, EPGP-Classic
+
+## X-Category: Guild
+## X-License: GNU Lesser General Public License version 3 (LGPLv3)
+## X-Website: https://www.curseforge.com/wow/addons/rclootcouncil-epgp-classic
+## X-Github: https://github.com/SafeteeWoW/RCLootCouncil_EPGP
+## X-Curse_Project-ID: 357873
+
+Libs\LibGroupInSpecT\LibGroupInSpecT-1.1.lua
+redirection.lua
+
+## RCLootCouncil - EPGP imports:
+RCLootCouncil_EPGP\Locale\Locales.xml
+
+RCLootCouncil_EPGP\core.lua
+
+RCLootCouncil_EPGP\Modules\Modules.xml
+RCLootCouncil_EPGP\Util\Util.xml
+
+## Classic Module
+
+## Overrides
+Modules\CustomEP.lua
+Modules\CustomGP.lua
+Modules\VotingFrame.lua
