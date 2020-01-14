@@ -4,10 +4,11 @@ enable-nolib-creation: no
 externals:
   RCLootCouncil_EPGP:
     url: https://github.com/evil-morfar/RCLootCouncil_EPGP.git
+    tag: v2.3.0-Release
 
 required-dependencies:
-  - EPGP-Classic
-  - RCLootCouncil_Classic
+  - epgp-classic
+  - rclootcouncil-classic
 
 tools-used:
   - FindGlobals
