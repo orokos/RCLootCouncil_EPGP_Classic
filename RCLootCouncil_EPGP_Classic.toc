@@ -1,7 +1,7 @@
 ## Interface: 11303
 
 ## Title: RCLootCouncil - EPGP Classic
-## Version: 0.0.5-Beta
+## Version: 0.0.6-Beta
 
 ## Author: jpxthu
 ## Notes: A WoW: Classic port of RCLootCouncil - EPGP
