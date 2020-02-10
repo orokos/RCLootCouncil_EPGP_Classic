@@ -15,6 +15,7 @@
 ## X-Curse_Project-ID: 357873
 
 Libs\LibGroupInSpecT\LibGroupInSpecT-1.1.lua
+Libs\LibGearPoints-1.2.lua
 redirection.lua
 
 ## RCLootCouncil - EPGP imports:
