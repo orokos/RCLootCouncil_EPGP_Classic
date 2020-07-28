@@ -34,5 +34,5 @@ function lib:GetValue(item)
   local gp1, c1, gp2, c2, gp3, c3 = l13:GetValue(item)
   if not gp1 then return end
 
-  return gp1, gp2, level, rarity, equipLoc
+  return gp1 * 100, gp2 and gp2 * 100, ilvl, rarity, equipLoc
 end
