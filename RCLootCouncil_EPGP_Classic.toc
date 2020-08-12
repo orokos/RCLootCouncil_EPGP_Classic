@@ -32,3 +32,4 @@ RCLootCouncil_EPGP\Util\Util.xml
 Modules\CustomEP.lua
 Modules\CustomGP.lua
 Modules\VotingFrame.lua
+Util\popups.lua
