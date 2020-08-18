@@ -1,7 +1,8 @@
-## Interface: 11303
+## Interface: 11305
+## X-Min-Interface: 11302
 
 ## Title: RCLootCouncil - EPGP Classic
-## Version: 0.0.6-Beta
+## Version: 0.0.7-Beta
 
 ## Author: jpxthu
 ## Notes: A WoW: Classic port of RCLootCouncil - EPGP
@@ -11,8 +12,8 @@
 ## X-Category: Guild
 ## X-License: GNU Lesser General Public License version 3 (LGPLv3)
 ## X-Website: https://www.curseforge.com/wow/addons/rclootcouncil-epgp-classic
-## X-Github: https://github.com/SafeteeWoW/RCLootCouncil_EPGP
-## X-Curse_Project-ID: 357873
+## X-Github: https://github.com/jpxthu/RCLootCouncil_EPGP_Classic
+## X-Curse_Project-ID: 358318
 
 Libs\LibGroupInSpecT\LibGroupInSpecT-1.1.lua
 Libs\LibGearPoints-1.2.lua
